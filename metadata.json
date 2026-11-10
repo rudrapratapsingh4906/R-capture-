@@ -1,0 +1,6 @@
+{
+  "name": "R-Capture",
+  "description": "On-device OCR and text capture application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">R-Capture</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_text">Extract Text</string>
+    <string name="extracted_text_title">Extracted Text</string>
+    <string name="copy_text">Copy</string>
+    <string name="share_text">Share</string>
+    <string name="clear_text">Clear</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="no_text_extracted">No text found in selected image.</string>
+    <string name="processing_ocr">Recognizing text on-device…</string>
+    <string name="accessibility_service_title">Accessibility Assistant (Optional)</string>
+    <string name="accessibility_service_desc">Allows reading UI text from active screens upon explicit user activation. No data is collected or uploaded in the background.</string>
+    <string name="accessibility_service_enabled">Accessibility Service Active</string>
+    <string name="accessibility_service_disabled">Accessibility Service Inactive</string>
+    <string name="enable_accessibility">Enable in Settings</string>
+</resources>
